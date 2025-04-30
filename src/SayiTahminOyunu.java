@@ -29,10 +29,6 @@ public class SayiTahminOyunu {
             default:
                 System.out.println("Geçersiz seçim, varsayılan olarak Orta (1-100) seçildi.");
         }
-        git add .
-        git commit -m "feat: add ATM console app with balance check, deposit, withdraw, and multi-user login
-                -number guessing game with difficulty levels-basic console calculator with four operations"
-
         int rastgeleSayi = random.nextInt(maxSayi) + 1;
         int tahmin;
         int tahminSayisi = 0;
