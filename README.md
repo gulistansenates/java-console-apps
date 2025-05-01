@@ -12,14 +12,15 @@ A basic console-based calculator that performs four operations: addition, subtra
 - Takes two numbers and an operation as input.
 - Handles invalid inputs (like division by zero).
 
-### How to Run
-```bash
-javac Calculator.java
-java Calculator
-2. Grade Average Calculator
+## 2. Grade Average Calculator
+
 A simple program to calculate the average of grades entered by the user and display the corresponding letter grade.
 
-Features
-Allows input of multiple course names and grades.
+### Features
+- Allows input of multiple course names and grades.
 
-Calculates average and shows a letter grade (AA–FF).
+- Calculates average and shows a letter grade (AA–FF).
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
