@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaCraft.iml" filepath="$PROJECT_DIR$/JavaCraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaConsoleApp.iml" filepath="$PROJECT_DIR$/JavaConsoleApp.iml" />
     </modules>
   </component>
 </project>
